@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaraboM7
-- 👀 I’m interested in ...Information technology mainly software development 
+- 👀 I’m interested in ...Information technology mainly software development and Networking 
 - 🌱 I’m currently learning ...an international certificate in CompTia N+ and CCNA
-- 💞️ I’m looking to collaborate on ...on developing apications
+- 💞️ I’m looking to collaborate on ... developing applications, coding and security
 - 📫 How to reach me ...0614978841
 
 <!---
